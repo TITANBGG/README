@@ -11,6 +11,16 @@
 
 </div>
 
+<div align="center">
+
+Current focus
+
+
+
+
+
+</div>
+
 About me
 
 I am a final-year Computer Engineering student and AI developer focused on multimodal medical AI, computer vision, NLP, and agentic systems. I turn research ideas into usable software—from clinical decision-support workflows to real-time disaster mapping and intelligent education platforms.
@@ -140,12 +150,29 @@ AI-powered agriculture
 GitHub activity
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TITANBGG&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub achievements" />
+</div>
+
+<br />
+
+<div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=TITANBGG&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22C55E&text_color=C9D1D9&rank_icon=github" alt="Ali Nebi ER's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TITANBGG&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
+  <img height="170" src="https://streak-stats.demolab.com?user=TITANBGG&theme=github-dark-blue&hide_border=true&ring=22C55E&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TITANBGG&bg_color=0D1117&color=38BDF8&line=22C55E&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
+</div>
+
+Contribution snake
+
+<div align="center">
+
+
+
+
+This animation is regenerated automatically every 12 hours from the live contribution graph.
+
 </div>
 
 Let’s build something useful
