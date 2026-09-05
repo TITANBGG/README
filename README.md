@@ -1,21 +1,161 @@
-# 💫 About Me:
-About Me :<br><br>🔭 I’m currently working on<br>AI-powered projects such as fatigue detection with YOLOv5 + LSTM and a smart agriculture app for Teknofest.<br><br>🤝 I’m looking to collaborate on<br>Open-source AI projects, computer vision solutions, and innovative software applications.<br><br>🧠 I’m looking for help with<br>Improving model efficiency, scaling AI systems, and contributing to impactful research.<br><br>🌱 I’m currently learning<br>Advanced deep learning techniques, Next.js for modern web apps, and large-scale system optimization.<br><br>💬 Ask me about<br>Artificial Intelligence, Machine Learning, Python development, and software engineering practices.<br><br>⚡ Fun fact<br>I once built a chatbot during an internship that is still being used today 🚀
+<div align="center">
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@alinebierr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alinebier/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@alinebier138) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19941039) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@alinebier) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alinebier138@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TITANBGG&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TITANBGG&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TITANBGG&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TITANBGG&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=TITANBGG&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+</div>
+
+About me
+
+I am a final-year Computer Engineering student and AI developer focused on multimodal medical AI, computer vision, NLP, and agentic systems. I turn research ideas into usable software—from clinical decision-support workflows to real-time disaster mapping and intelligent education platforms.
+
+AI Research Intern at Microsoft Türkiye — AI Innovators
+
+Building SağlıkCebim, an AI-assisted clinical decision-support platform
+
+Researching chest X-ray diagnosis using image + clinical-text fusion
+
+Experienced with end-to-end ML pipelines, APIs, model evaluation, and product integration
+
+Open to AI/ML engineering, research, and open-source collaboration
+
+I care about models that do more than score well in a notebook: they should be explainable, testable, and useful in the real world.
+
+Featured work
+
+Project
+
+What it does
+
+Technical focus
+
+SağlıkCebim
+
+Combines symptoms, laboratory results, and radiology findings into structured clinical roadmaps and department guidance.
+
+Multimodal AI, DenseNet, LLMs, FastAPI, clinical safety
+
+Chest X-Ray Multimodal Diagnosis
+
+Fuses chest X-rays with clinical reports for multi-label diagnosis; experiments reached approximately 0.92 ROC-AUC with late fusion.
+
+ViT, DenseNet-121, ClinicalBERT, cross-attention
+
+AfetHaritaApp
+
+Builds a real-time disaster intelligence layer for reporting, mapping, and prioritizing incidents.
+
+Geospatial systems, real-time data, AI-assisted triage
+
+AgroScan AI
+
+Detects crop problems from images and supports farmers with actionable recommendations.
+
+Computer vision, classification, smart agriculture
+
+MicrosoftJrSLM
+
+Explores compact language models and efficient task-specific AI workflows.
+
+SLMs, fine-tuning, evaluation, inference
+
+Driver Drowsiness Detection
+
+Detects fatigue indicators from live video to improve driver safety.
+
+YOLOv5, LSTM, OpenCV, real-time inference
+
+E-Sınıf
+
+AI-supported education management with secure authentication and intelligent assistance.
+
+FastAPI, Gemini, JWT, SQLAlchemy
+
+Smart CV & Job Matching
+
+Extracts structured information from CVs and matches candidates with relevant roles.
+
+OCR, NLP, information extraction, recommendation
+
+<div align="center">
+
+Explore all repositories →
+
+</div>
+
+Core toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,dotnet,cs,java,js,ts,nextjs,react,postgres,docker,azure,git,github&perline=9" alt="Technology stack" />
+</p>
+
+Area
+
+Technologies
+
+AI & Research
+
+PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV, Transformers, multimodal learning
+
+Backend & Data
+
+Python, FastAPI, SQLAlchemy, PostgreSQL, REST APIs, MLflow
+
+Product Engineering
+
+Next.js, React, TypeScript, Docker, GitHub Actions, Azure
+
+Current interests
+
+Agentic AI, RAG, medical VLMs, SLM optimization, trustworthy AI
+
+Selected outcomes
+
+<div align="center">
+
+~0.92 ROC-AUC
+
+48+ repositories
+
+60+ GitHub stars
+
+Teknofest finalist
+
+Multimodal chest X-ray research
+
+Experiments and products
+
+Open-source engagement
+
+AI-powered agriculture
+
+</div>
+
+GitHub activity
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TITANBGG&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22C55E&text_color=C9D1D9&rank_icon=github" alt="Ali Nebi ER's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TITANBGG&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TITANBGG&bg_color=0D1117&color=38BDF8&line=22C55E&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
+</div>
+
+Let’s build something useful
+
+I am interested in collaborations involving medical AI, multimodal learning, computer vision, agentic workflows, and applied ML research. If you are working on a difficult real-world problem, feel free to reach out.
+
+<div align="center">
+
+AI should not stay in a demo. It should become a dependable system.
+
+
+
+</div>
